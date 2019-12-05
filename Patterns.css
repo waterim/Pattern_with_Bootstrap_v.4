@@ -5,8 +5,18 @@
     background-position: center;
 
 }
+.bg-dark{
+    background-color: black;
+}
 
-.btn-success{
-    background-color: #85ff64;
-    color: black;
+button[class="btn btn-success"]{
+    background-color: #d48739;
+    border-color: #d48739;
+    color: white;
+}
+
+button[class="btn btn-info"]{
+    background-color: #a2522e;
+    border-color: #a2522e;
+    color: white;
 }
